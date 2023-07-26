@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Sandwich",
+      "category": "Produce",
+      "inInCart": false,
+      "id": 7
     }
   ]
 }
